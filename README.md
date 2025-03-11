@@ -9,7 +9,9 @@ Earth observation data have shown promise in predicting species richness of vasc
 
 ## News
 
-[2024-12] The Spatioformer code released.
+[2025-03] The code is released to the public. 
+[2025-01] The paper is accepted at the IEEE T-GRS.
+[2024-12] The Spatioformer code is released.
 
 
 ## Usage
@@ -61,12 +63,17 @@ The plant species richness dataset of this study has been released in a machine 
 ## How to cite our paper
 
 ```
-@article{guo2024spatioformer,
-  title={Spatioformer: A Geo-encoded Transformer for Large-Scale Plant Species Richness Prediction},
-  author={Guo, Yiqing and Mokany, Karel and Levick, Shaun R and Yang, Jinyan and Moghadam, Peyman},
-  journal={arXiv preprint arXiv:2410.19256},
-  year={2024}
+@ARTICLE{guo2025spatioformer,
+  author={Guo, Yiqing and Mokany, Karel and Levick, Shaun R. and Yang, Jinyan and Moghadam, Peyman},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Spatioformer: A Geo-Encoded Transformer for Large-Scale Plant Species Richness Prediction}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2025.3534654}
 }
+
 ```
 
 
