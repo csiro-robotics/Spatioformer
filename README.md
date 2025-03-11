@@ -10,7 +10,9 @@ Earth observation data have shown promise in predicting species richness of vasc
 ## News
 
 [2025-03] The code is released to the public. 
+
 [2025-01] The paper is accepted at the IEEE T-GRS.
+
 [2024-12] The Spatioformer code is released.
 
 
