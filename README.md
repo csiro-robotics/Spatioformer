@@ -1,5 +1,6 @@
 # Spatioformer
 The official repository of "[Spatioformer: A Geo-encoded Transformer for Large-Scale Plant Species Richness Prediction](https://ieeexplore.ieee.org/abstract/document/10854505)" published at the IEEE Transactions on Geoscience and Remote Sensing, 2025. 
+
 A preprint version of the paper can be found at https://arxiv.org/abs/2410.19256.
 
 ## Abstract
